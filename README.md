@@ -11,9 +11,9 @@ ___
 - SeungWoo Kim
 - Hanyang University, Department of Computer Sofrware Engineering
 ### Connect with me
-- <a href="https://icpc.me/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" alt="thes24" style="background-color: #e9e9e9;" height="28px"></a>
+- <a href="https://icpc.me/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" alt="thes24" style="background-color: white;" height="28px"></a>
 
-- <a href="https://solved.ac/profile/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/logo/solvedac-black.svg" alt="thes24" style="background-color: #e9e9e9;" height="28px"></a>
+- <a href="https://solved.ac/profile/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/logo/solvedac-black.svg" alt="thes24" style="background-color: white;" height="28px"></a>
 
 - ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
