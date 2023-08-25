@@ -11,14 +11,10 @@ ___
 - SeungWoo Kim
 - Hanyang University, Department of Computer Sofrware Engineering
 ### Connect with me
-- <a href="https://icpc.me/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" alt="thes24" style="background-color: white;" height="28px"></a>
-
-- <a href="https://solved.ac/profile/thes24" target="_blank" rel="noreferrer"><img src="https://d2gd6pc034wcta.cloudfront.net/logo/solvedac-black.svg" alt="thes24" style="background-color: white;" height="28px"></a>
-
-- ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-
-<!-- - <a href="https://codeforces.com/profile/thes24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thes24" style="background-color: white;" height="20px"></a>
-<a href="https://codeforces.com/profile/thes24" target="_blank" rel="noreferrer">thes24</a> -->
+- [![BaekJoon](https://img.shields.io/badge/BaekJoon-0278C3?style=for-the-badge&label=thes24&labelColor=777777)](https://icpc.me/thes24)
+- [![Solved.Ac](https://img.shields.io/badge/Solved.Ac-17CE3A?style=for-the-badge&label=thes24&labelColor=777777)](https://solved.ac/profile/thes24)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&label=thes24&labelColor=777777)](https://codeforces.com/profile/thes24)
+- [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&label=thes24&labelColor=777777)](https://atcoder.jp/users/thes24)
 
 ### Languages and Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
