@@ -17,9 +17,9 @@ ___
 - [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&label=thes24&labelColor=777777)](https://atcoder.jp/users/thes24)
 
 ### Languages and Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thes24&layout=compact&theme=dark)](https://github.com/thes24)
